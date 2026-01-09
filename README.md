@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- MCA post graduate with strong knowledge of software development, object-oriented programming, anddatabase management. 
+- MCA post graduate with strong knowledge of software development, object-oriented programming, and database management. 
 - Skilled in Java, Python, C, HTML, CSS, JavaScript, and SQL.
 - Completed academic projects involving full-stack development and problem-solving using data structures and algorithms.
 
